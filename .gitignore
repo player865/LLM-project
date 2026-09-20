@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Model files (large binary files)
+models/
+knowledge_base/
+
+# Output results
+output/
+
+# Data - images (large files)
+data/images/
+
+# Data - datasets (csv / excel)
+data/*.csv
+data/*.xlsx
+data/*.xls
+
+# Generated dialogue data
+dialogue_data/
+data/simulated_dialogues/
+
+# Environment / secrets
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
