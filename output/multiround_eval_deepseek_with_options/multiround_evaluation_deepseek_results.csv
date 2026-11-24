@@ -1,0 +1,2 @@
+﻿model_name,mode,n_samples,n_unknown,accuracy,precision_macro,recall_macro,f1_macro,precision_micro,recall_micro,f1_micro,precision_weighted,recall_weighted,f1_weighted,avg_conversation_rounds,avg_rounds_correct,avg_rounds_incorrect
+deepseek-v3-1-think-250821,with_options,687,0,0.6885007278020379,0.5291956689868523,0.527262180974478,0.5273450447464368,0.6885007278020379,0.6885007278020379,0.6885007278020379,0.6960213488597767,0.6885007278020379,0.6903722187564982,3.97962154294032,3.9874015748031497,3.8846153846153846

@@ -1,0 +1,154 @@
+Case: A 63-year-old woman presented to our department with a 6-month history of recurrent vomiting and loss of 5 kg in weight. The patient had a medical history of dyslipidaemia and hypertension; she was pr...
+Target: Discontinuation of olmesartan
+Options: Administration of steroids, Discontinuation of olmesartan, Gluten-free diet, Administration of proton pump inhibitors
+
+================================================================================
+
+### 病理科 + 肿瘤科 - claude (Round 1)
+## Pathology Department Assessment
+
+Good morning, colleagues. I'm the consulting pathologist on this case.
+
+### Histopathological Findings
+
+Reviewing the submitted images:
+
+**Image B (H&E staining):**
+- Demonstrates gastric mucosa with significant architectural distortion
+- Notable inflammatory cell infiltration within the lamina propria, including eosinophils
+- Glandular atrophy and disorganization
+- Subepithelial thickening consistent with collagen deposition
+
+**Image C (Trichrome staining):**
+- The arrows highlight prominent **subepithelial collagen bands** (staining blue with Masson's trichrome)
+- This is the pathognomonic finding for collagenous gastritis
+- The collagen deposition is patchy but substantial, typical of this entity
+
+### Pathological Diagnosis
+
+**Collagenous Gastritis** - confirmed by the characteristic subepithelial collagen band deposition with associated inflammatory infiltrate including eosinophils.
+
+### Oncology Relevance
+
+From an oncology perspective, I can confirm:
+- **No evidence of malignancy** in the biopsy specimens
+- No dysplasia identified
+- The inflammatory pattern is reactive, not neoplastic
+- Normal CEA and soluble IL-2 receptor support benign etiology
+
+### Differential Considerations Excluded
+
+- Eosinophilic gastritis (lacks prominent collagen bands)
+- Autoimmune gastritis (different histological pattern)
+- Lymphoproliferative disorders (negative markers)
+
+### Assessment
+
+This is **drug-induced collagenous gastritis secondary to olmesartan**, supported by the clinical resolution following drug discontinuation and subsequent histological normalization. This represents a rare but recognized olmesartan-associated gastrointestinal toxicity.
+
+--------------------------------------------------------------------------------
+
+### 主管理模型 - gemini (Round 1)
+Olmesartan-associated collagenous gastritis
+
+--------------------------------------------------------------------------------
+
+### 病理科 + 肿瘤科 - claude (Round 2)
+## Pathology Department & Oncology Department - Updated Assessment
+
+Thank you for the opportunity to provide an updated assessment following the multidisciplinary discussion.
+
+### Agreement with Diagnosis
+
+I **fully concur** with the primary diagnosis of **Olmesartan-associated collagenous gastritis**.
+
+### Histopathological Confirmation
+
+The imaging evidence strongly supports this diagnosis:
+
+**Endoscopic Findings (Image A):**
+- Diffusely erythematous, atrophic gastric mucosa
+- Linear scarring pattern
+- Friable tissue with easy contact bleeding
+- These macroscopic features are characteristic of collagenous gastritis
+
+**Microscopic Evidence (Images B & C):**
+- The H&E section demonstrates lamina propria expansion with mixed inflammatory infiltrate including eosinophils
+- The trichrome stain definitively shows **thick subepithelial collagen bands** (indicated by arrows) - this is the diagnostic hallmark
+- Collagen band thickness appears >10 μm, meeting diagnostic criteria
+
+### Supporting Evidence for Olmesartan Etiology
+
+1. **Temporal relationship**: 10-year exposure to olmesartan
+2. **Clinical resolution**: Symptoms resolved within 2 weeks of discontinuation
+3. **Weight recovery**: 7 kg weight gain within 2 months
+4. **Histological resolution**: Follow-up biopsies showed no residual collagen bands
+5. **No recurrence**: 2-year sustained remission
+
+### Oncology Assessment
+
+- **No malignant features** identified
+- No dysplasia or atypia
+- Normal tumor markers (CEA, soluble IL-2 receptor)
+- No surveillance concerns beyond routine follow-up
+
+### Final Diagnosis
+
+**Olmesartan-associated collagenous gastritis**
+
+--------------------------------------------------------------------------------
+
+### 主管理模型 - gemini (Round 2)
+Olmesartan-associated collagenous gastritis
+
+--------------------------------------------------------------------------------
+
+### 病理科 + 肿瘤科 - claude (Round 3)
+## Pathology Department & Oncology Department - Final Assessment
+
+### Agreement with Consensus Diagnosis
+
+I **fully agree** with the established diagnosis of **Olmesartan-associated collagenous gastritis**.
+
+### Integrated Analysis
+
+**Histopathological Evidence Review:**
+
+The three images provide comprehensive diagnostic evidence:
+
+- **Image A (Endoscopy):** Shows diffusely inflamed gastric mucosa with characteristic nodularity, linear scarring, and atrophic changes with contact friability - classic endoscopic appearance of collagenous gastritis
+
+- **Image B (H&E stain):** Demonstrates glandular architectural distortion, lamina propria expansion with mixed inflammatory infiltrate containing eosinophils, and subepithelial thickening
+
+- **Image C (Trichrome stain):** The arrows definitively identify **thick subepithelial collagen bands** staining blue - this is the pathognomonic diagnostic criterion for collagenous gastritis (typically >10 μm thickness)
+
+### Causal Attribution to Olmesartan
+
+The drug-induced etiology is supported by:
+1. **Dechallenge response** - symptom resolution within 2 weeks of discontinuation
+2. **Histological reversibility** - complete resolution of collagen bands at 6 months
+3. **Sustained remission** - 2-year follow-up without recurrence
+4. **Known association** - olmesartan is increasingly recognized as causing collagenous gastrointestinal disease
+
+### Oncology Clearance
+
+- No dysplasia, atypia, or malignant features
+- Normal oncologic markers
+- No increased cancer surveillance required
+
+### Final Diagnosis
+
+**Olmesartan-associated collagenous gastritis**
+
+--------------------------------------------------------------------------------
+
+### 主管理模型 - gemini (Round 3)
+Olmesartan-associated collagenous gastritis
+
+--------------------------------------------------------------------------------
+
+### 影像科 + 检验科 - deepseek (Round 3)
+Olmesartan-associated collagenous gastritis
+
+--------------------------------------------------------------------------------
+

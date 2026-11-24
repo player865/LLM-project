@@ -1,0 +1,2 @@
+﻿model_name,mode,n_samples,n_unknown,accuracy,precision_macro,recall_macro,f1_macro,precision_micro,recall_micro,f1_micro,precision_weighted,recall_weighted,f1_weighted,avg_conversation_rounds,avg_rounds_correct,avg_rounds_incorrect
+gemini-2.5-pro,with_options,687,0,0.38719068413391555,0.2483349191246432,0.24262607040913417,0.24437044084998413,0.38719068413391555,0.38719068413391555,0.38719068413391555,0.4090247452692867,0.38719068413391555,0.3937409024745269,3.8384279475982535,3.74,3.940652818991098
