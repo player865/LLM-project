@@ -12,9 +12,6 @@ __pycache__/
 models/
 knowledge_base/
 
-# Output results
-output/
-
 # Data - images (large files)
 data/images/
 
